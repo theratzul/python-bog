@@ -10,5 +10,6 @@ python3 hash-file.py
 pip3 install crypto  
 python3 breakpoint.py  
 python3 calendar_1.py  
-python3 variables.py (show of variables showing seconds of days)  
+python3 variables.py (show of variables showing seconds of days)  (https://www.youtube.com/watch?v=t8pPdKYpowI)  
+
 
