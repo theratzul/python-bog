@@ -11,5 +11,6 @@ pip3 install crypto
 python3 breakpoint.py  
 python3 calendar_1.py  
 python3 variables.py (show of variables showing seconds of days)  (https://www.youtube.com/watch?v=t8pPdKYpowI)  
+python3 array-zip.py (https://www.youtube.com/shorts/_1Epl1HdrMI)  
 
 
