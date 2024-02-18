@@ -12,5 +12,8 @@ python3 breakpoint.py
 python3 calendar_1.py  
 python3 variables.py (show of variables showing seconds of days)  (https://www.youtube.com/watch?v=t8pPdKYpowI)  
 python3 array-zip.py (https://www.youtube.com/shorts/_1Epl1HdrMI)  
+python3 flask3.py (render index.html)  
+lsof -i TCP:5000||sudo tcpdump -i lo port 5000||ifconfig lo (debug flask network traffic)  
+
 
 
