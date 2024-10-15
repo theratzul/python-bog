@@ -17,3 +17,4 @@ lsof -i TCP:5000||sudo tcpdump -i lo port 5000||ifconfig lo (debug flask network
 python3 flask4.py  (html templates/extending/debugger https://www.youtube.com/watch?v=4nzI4RKwb5I&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&index=3)   
 python3 flast5.py (https://youtu.be/9MHYHgh4jYc?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)-Flask/Post/Get  
 python3 random-odd-number.py (import loggin and random)  
+python3 while.py
