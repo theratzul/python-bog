@@ -18,3 +18,5 @@ python3 flask4.py  (html templates/extending/debugger https://www.youtube.com/wa
 python3 flast5.py (https://youtu.be/9MHYHgh4jYc?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)-Flask/Post/Get  
 python3 random-odd-number.py (import loggin and random)  
 python3 while.py
+python3 anoter-if.py
+python3 dictinary.py
